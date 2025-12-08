@@ -1,5 +1,6 @@
 ## Эмбеддинги валлийского языка
 [Ссылка на гугл-папку](https://drive.google.com/drive/folders/12tuKKCQ-CtlGuSaTlkP-G6CbIoxacKtl?usp=drive_link)
+
 [Ссылка на оригинальный корпус](https://research.cardiff.ac.uk/converis/portal/detail/Dataset/119878310?auxfun=&lang=en_GB)
 
 В папке:
